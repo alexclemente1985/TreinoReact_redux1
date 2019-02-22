@@ -1,0 +1,27 @@
+{
+    "name": "exercicios_webpack",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "webpack-dev-server --progress --colors --inline --hot"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/alexclemente1985/TreinoReact_redux1.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/alexclemente1985/TreinoReact_redux1/issues"
+    },
+    "homepage": "https://github.com/alexclemente1985/TreinoReact_redux1#readme",
+    "devDependencies": {
+        "webpack": "^4.29.5",
+        "webpack-cli": "^3.2.3"
+    },
+    "dependencies": {
+        "webpack-dev-server": "^3.2.0"
+    }
+}
